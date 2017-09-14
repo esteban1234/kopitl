@@ -121,7 +121,7 @@
             <p>En GRUPO COMERCIAL KOPITL ofrecemos soluciones integrales de acuerdo a sus necesidades, con servicios innovadores y con capacitaciones constantes al personal. En GRUPO COMERCIAL KOPITL siempre buscamos la mejor calidad, rentabilidad y confianza en nuestros servicios, para alcanzar siempre la satisfacción total de nuestro cliente.</p>
           </div>
           <div class="col-md-2 text-right">
-            <i class="fa fa-user fa-5x"  aria-hidden="true"></i>
+            <i class="fa fa-users fa-5x"  aria-hidden="true"></i>
           </div>
           <div class="col-md-4">
             <h3 class="text-left">¿Qué tipo de profesionistas puedo buscar y contactar KOPITL?</h3>
