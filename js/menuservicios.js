@@ -1,15 +1,15 @@
 $(document).ready(function(){
 	// event.preventDefault();
 
-	$("a").click(function(event){
-        event.preventDefault();
-    });
+	// $("a").click(function(event){
+ //        event.preventDefault();
+ //    });
 
 
 	$('.category_list .category_item[category="contables"]').addClass('ct_item-active');
 
-	$('.category_item').click(function(){
-		// event.preventDefault();
+	$('.category_item').click(function(event){
+		event.preventDefault();
 		var catProduct = $(this).attr('category');
 		// console.log(catProduct);
 
@@ -29,8 +29,8 @@ $(document).ready(function(){
 	} setTimeout(showProduct,400);
 	});
 
-	$('.category_item[category="contables"]').click(function(){
-		// event.preventDefault();
+	$('.category_item[category="contables"]').click(function(event){
+		event.preventDefault();
 		function showAll(){
 			$('.product-item').show();
 			$('.product-item').css('transform','scale(1)');
