@@ -1,10 +1,17 @@
 $(document).ready(function(){
+	// event.preventDefault();
+
+	$("a").click(function(event){
+        event.preventDefault();
+    });
+
 
 	$('.category_list .category_item[category="all"]').addClass('ct_item-active');
 
 	$('.category_item').click(function(){
+		// event.preventDefault();
 		var catProduct = $(this).attr('category');
-		console.log(catProduct);
+		// console.log(catProduct);
 
 	$('.category_item').removeClass('ct_item-active');
 	$(this).addClass('ct_item-active');
@@ -23,6 +30,7 @@ $(document).ready(function(){
 	});
 
 	$('.category_item[category="all"]').click(function(){
+		// event.preventDefault();
 		function showAll(){
 			$('.product-item').show();
 			$('.product-item').css('transform','scale(1)');
