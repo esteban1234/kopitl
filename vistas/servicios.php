@@ -26,55 +26,70 @@
     <h1>Servicios</h1>
     <div class="store-wrapper">
       <div class="category_list">
-        <a href="#" class="category_item" category="all">TODOS</a>
-        <a href="#" class="category_item" category="ordenadores">Ordenadores</a>
-        <a href="#" class="category_item" category="laptops">Laptops</a>
-        <a href="#" class="category_item" category="monitores">Monitores</a>
-        <a href="#" class="category_item" category="audifonos">Audifonos</a>
-        <a href="#" class="category_item" category="smart">Smart</a>
+        <!-- <a href="#" class="category_item" category="all">TODOS</a> -->
+        <a href="#" class="category_item" category="contables">Servicios Contables</a>
+        <a href="#" class="category_item" category="integral">SUPERVISIÓN FISCAL INTEGRAL</a>
+        <a href="#" class="category_item" category="fiscal">ESTRATEGIA FISCAL </a>
+        <a href="#" class="category_item" category="auditoria">AUDITORÍA FINANCIERA</a>
+        <a href="#" class="category_item" category="legal">TRAMITES LEGALES</a>
+        <a href="#" class="category_item" category="litigio">TRAMITES LEGALES</a>
       </div>
       <section class="products-list">
-        <div class="product-item" category="laptops">
+        <div class="product-item" category="contables">
+        <h1>SERVICIOS CONTABLES</h1>
           <p>1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, hic.</p>
-          <a href="">Texto Uno</a>
+          
         </div>
-        <div class="product-item" category="laptops">
+
+         <div class="product-item" category="integral">
+        <h1>SUPERVISIÓN FISCAL INTEGRAL </h1>
+          <p>1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, hic.</p>
+          
+        </div>
+        <div class="product-item" category="fiscal">
+        <h1>ESTRATEGIA FISCAL</h1>
           <p>2 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, hic.</p>
-          <a href="">Texto Dos</a>
+          
         </div>
-        <div class="product-item" category="smart">
+        <div class="product-item" category="auditoria">
+        <h1>AUDITORÍA FINANCIERA</h1>
           <p>3 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, hic.</p>
-          <a href="">Texto Tres</a>
+          
         </div>
-        <div class="product-item" category="smart">
+        <div class="product-item" category="legal">
+        <h1>TRAMITES LEGALES</h1>
           <p>4 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, hic.</p>
-          <a href="">Texto Cuatro</a>
+          
         </div>
-        <div class="product-item" category="monitores">
+        <div class="product-item" category="litigio">
+        <h1>LITIGIO FISCAL Y ADMINISTRATIVO</h1>
           <p>5 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, hic.</p>
-          <a href="">Texto Cinco</a>
+          
         </div>
-        <div class="product-item" category="monitores">
+        <!-- <div class="product-item" category="monitores">
+        <h1>SERVICIOS CONTABLES</h1>
           <p>6 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, hic.</p>
-          <a href="">Texto seis</a>
-        </div>
-        <div class="product-item" category="ordenadores">
+         
+        </div> -->
+        <!-- <div class="product-item" category="ordenadores">
+        <h1>SERVICIOS CONTABLES</h1>
           <p>7 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, hic.</p>
-          <a href="">Texto siete</a>
-        </div>
-        <div class="product-item" category="audifonos">
+          
+        </div> -->
+        <!-- <div class="product-item" category="audifonos">
+        <h1>SERVICIOS CONTABLES</h1>
           <p>7 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, hic.</p>
-          <a href="">Texto ocho</a>
-        </div>
+          
+        </div> -->
         
       </section>
     </div>
 </div>
  
 
-    <!-- <div style="text-align: center; margin-top: 5%; margin-bottom: 5%;">
+    <div style="text-align: center; margin-top: 5%; margin-bottom: 5%;">
       <a class="btn btn-warning btn-outline btn-lg" href="contacto.php">CONTACTANOS</a>
-    </div> -->
+    </div>
 
 <span class="ir-arriba"><i class="fa fa-chevron-up" aria-hidden="true"></i></span>
 <?php include 'pie.php' ?>

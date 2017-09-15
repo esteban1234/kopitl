@@ -250,17 +250,19 @@ footer p{
 }
 /*-----------texto-----*/
 .products-list{
+  /*border: 2px red solid;*/
   width: 82%;
   display: flex;
   flex-wrap: wrap;
 }
 .products-list .product-item{
-  width: 22%;
-  margin-left: 3%;
+  width: 50%;
+  /*margin-left: 3%;*/
+  margin: 0 auto;
   transition: all .4s;
 }
 .category_list .ct_item-active{
-  background-color: red;
+  background-color: #8DC04D;
 }
 
 /*-----------------contacto-----------------*/

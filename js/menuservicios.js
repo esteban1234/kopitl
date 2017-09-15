@@ -6,7 +6,7 @@ $(document).ready(function(){
     });
 
 
-	$('.category_list .category_item[category="all"]').addClass('ct_item-active');
+	$('.category_list .category_item[category="contables"]').addClass('ct_item-active');
 
 	$('.category_item').click(function(){
 		// event.preventDefault();
@@ -29,7 +29,7 @@ $(document).ready(function(){
 	} setTimeout(showProduct,400);
 	});
 
-	$('.category_item[category="all"]').click(function(){
+	$('.category_item[category="contables"]').click(function(){
 		// event.preventDefault();
 		function showAll(){
 			$('.product-item').show();
