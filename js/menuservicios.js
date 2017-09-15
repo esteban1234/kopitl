@@ -7,6 +7,8 @@ $(document).ready(function(){
 
 
 	$('.category_list .category_item[category="contables"]').addClass('ct_item-active');
+	$('.product-item').hide();
+	$('.product-item[category=contables]').show();
 
 	$('.category_item').click(function(event){
 		event.preventDefault();
@@ -32,7 +34,8 @@ $(document).ready(function(){
 	$('.category_item[category="contables"]').click(function(event){
 		event.preventDefault();
 		function showAll(){
-			$('.product-item').show();
+			// $('.product-item').show();
+			$('.product-item[category=contables]').show();
 			$('.product-item').css('transform','scale(1)');
 		}setTimeout(showAll,400);
 	});
