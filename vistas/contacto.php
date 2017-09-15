@@ -50,7 +50,7 @@
 
                     <div class="form-group ">
                       <label for="exampleInputText">Comentario</label>
-                     <textarea  class="form-control" placeholder="Description"></textarea> 
+                     <textarea  class="form-control" placeholder="Escribe tu comentario"></textarea> 
                     </div>
                     <button type="submit" class="btn btn-warning btn-outline btn-lg">Enviar Mensaje</button>
                   </form>
