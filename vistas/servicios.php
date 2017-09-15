@@ -32,64 +32,68 @@
         <a href="#" class="category_item" category="fiscal">ESTRATEGIA FISCAL </a>
         <a href="#" class="category_item" category="auditoria">AUDITORÍA FINANCIERA</a>
         <a href="#" class="category_item" category="legal">TRAMITES LEGALES</a>
-        <a href="#" class="category_item" category="litigio">TRAMITES LEGALES</a>
+        <a href="#" class="category_item" category="litigio">LITIGIO FISCAL Y ADMINISTRATIVO</a>
       </div>
       <section class="products-list">
         <div class="product-item" category="contables">
         <h1>SERVICIOS CONTABLES</h1>
-          <p>1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, hic.</p>
+          <p class="text-justify">Los servicios de contabilidad están diseñados para que se constituyan en un verdadero soporte administrativo, sobre el cual el empresario o comerciante pueda realizar netamente su actividad productiva, con la confianza que cuenta con una empresa de especialistas que se encargará de hacer las tareas contables oportunamente y dentro de las disposiciones legales vigentes.</p>
           
         </div>
 
          <div class="product-item" category="integral">
         <h1>SUPERVISIÓN FISCAL INTEGRAL </h1>
-          <p>1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, hic.</p>
+          <p class="text-justify">Con objeto de verificar la adecuada determinación y cálculo efectuado por sus contadores, contamos con los servicios de supervisión contable y fiscal. <br><br>
+
+              <b>Supervisión contable:</b> <br>
+
+              <i class="fa fa-check" aria-hidden="true"></i> Revisión del correcto registro de las operaciones de la Compañía. <br>
+              <i class="fa fa-check" aria-hidden="true"></i> Revisión de la correcta aplicación de las Normas de Información Financiera aplicables. <br>
+              <i class="fa fa-check" aria-hidden="true"></i> Revisión del adecuado control de archivos contables y financieros de la compañía. <br><br>
+
+              <b>Supervisión fiscal:</b> <br>
+
+             <i class="fa fa-check" aria-hidden="true"></i> Revisión de la correcta determinación de los impuestos federales y locales. <br>
+             <i class="fa fa-check" aria-hidden="true"></i> Revisión de los papeles de trabajo fiscales. <br>
+             <i class="fa fa-check" aria-hidden="true"></i> Verificación de la presentación de las declaraciones de impuestos mensuales, anuales e informativa.</p>
           
         </div>
         <div class="product-item" category="fiscal">
         <h1>ESTRATEGIA FISCAL</h1>
-          <p>2 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, hic.</p>
+          <p class="text-justify">Son las acciones de orden preventivo que se han organizado en la planeación de los negocios y empresas para lograr que el cumplimiento de las obligaciones tributarias sea oportuno, apegado a la ley y al menor costo alternativo posible. <br><br>
+
+          Brindamos con estrategias fiscales que les asegure el cumplimiento en fase voluntaria, en tiempo, forma y costos razonables. También contamos con estrategias fiscales para enfrentar procesos interactivos con la Administración Tributaria como comprobaciones abreviadas, cruce de información de terceros y la fiscalización integral.</p>
           
         </div>
         <div class="product-item" category="auditoria">
         <h1>AUDITORÍA FINANCIERA</h1>
-          <p>3 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, hic.</p>
+          <p class="text-justify">La auditoría financiera examina a los estados financieros y a través de ellos las operaciones financieras realizadas por el ente contable, con la finalidad de emitir una opinión técnica y profesional. Las disposiciones legales vigentes que regulan las actividades de la Contraloría General del Estado, definen a la Auditoría Financiera así: "Consiste en el examen de los registros, comprobantes, documentos y otras evidencias que sustentan los estados financieros de una entidad u organismo, efectuado por el auditor para formular el dictamen respecto de la razonabilidad con que se presentan los resultados de las operaciones, la situación financiera, los cambios operados en ella y en el patrimonio; para determinar el cumplimiento de las disposiciones legales y para formular comentarios, conclusiones y recomendaciones tendientes a mejorar los procedimientos relativos a la gestión financiera y al control interno".</p>
           
         </div>
         <div class="product-item" category="legal">
         <h1>TRAMITES LEGALES</h1>
-          <p>4 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, hic.</p>
+          <p class="text-justify">Debido a la complejidad de la legislación vigente resulta indispensable contar con un constante acompañamiento y un correcto conocimiento de las normativas. Contamos con las herramientas adecuadas para dar la respuesta más acertada a las necesidades legales.</p>
           
         </div>
         <div class="product-item" category="litigio">
         <h1>LITIGIO FISCAL Y ADMINISTRATIVO</h1>
-          <p>5 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, hic.</p>
+          <p class="text-justify">Esta área refiere a todo lo relación con el pago de impuestos ante las autoridades hacendarias y el cumplimiento de regulaciones no arancelarias. Buscamos garantizar a las personas tanto físicas como morales una defensa de calidad para cuidar su patrimonio, optimizando el pago de impuestos, a través de estrategias fiscales. <br><br>
+
+          Nuestra práctica de Litigio Administrativo comprende la representación de nuestros clientes en todo tipo de procedimientos contenciosos relacionados con la actividad del Estado. En esta materia, damos valor a nuestros clientes desde el análisis y presentación de estrategias respecto de proyectos de normatividad, o actos concretos de aplicación de la misma por parte de las autoridades competentes, incluyendo licitaciones, contratación pública, otorgamiento de concesiones, autorizaciones, permisos, licencias y sanciones, entre otros.</p>
           
         </div>
-        <!-- <div class="product-item" category="monitores">
-        <h1>SERVICIOS CONTABLES</h1>
-          <p>6 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, hic.</p>
-         
-        </div> -->
-        <!-- <div class="product-item" category="ordenadores">
-        <h1>SERVICIOS CONTABLES</h1>
-          <p>7 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, hic.</p>
-          
-        </div> -->
-        <!-- <div class="product-item" category="audifonos">
-        <h1>SERVICIOS CONTABLES</h1>
-          <p>7 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, hic.</p>
-          
-        </div> -->
+        
         
       </section>
+      <div style="text-align: center; margin-top: 5%; margin-bottom: 5%;">
+      <a class="btn btn-warning btn-outline btn-lg" href="contacto.php">CONTACTANOS</a>
     </div>
+    </div>
+
 </div>
  
 
-    <div style="text-align: center; margin-top: 5%; margin-bottom: 5%;">
-      <a class="btn btn-warning btn-outline btn-lg" href="contacto.php">CONTACTANOS</a>
-    </div>
+   
 
 <span class="ir-arriba"><i class="fa fa-chevron-up" aria-hidden="true"></i></span>
 <?php include 'pie.php' ?>
