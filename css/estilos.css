@@ -20,6 +20,10 @@ header{
   overflow: hidden;
 }
 
+.menu-op{
+  display: none;
+}
+
 header .logo{
   /*border: 2px red solid;*/
   /*color: #f2f2f2;*/

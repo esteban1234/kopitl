@@ -13,6 +13,10 @@
       <a class="select" href="servicios.php">SERVICIOS</a>
       <a class="select" href="contacto.php">CONTACTO</a>
     </nav>
+    <div class="menu-op">
+      <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+      <i class="fa fa-times fa-2x cerrar" aria-hidden="true"></i>
+    </div>
   </div>
 </header>
 <div class="banner2">
@@ -26,71 +30,70 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h2 class="text-center" style="color:#8DC04D; ">¿POR QUÉ ELEGIR GRUPO COMERCIAL KOPITL?</h2> <br><br>
+            <h2 class="text-center new-font-nos" style="color:#8DC04D; ">¿POR QUÉ ELEGIR GRUPO COMERCIAL KOPITL?</h2> <br><br>
             <!-- <p class="text-center">We are a group of skilled individuals.</p> -->
           </div>
         </div>
         <div class="row">
-          <div class="col-md-2 text-right">
+          <div class="col-xs-12 col-sm-2 col-md-2 text-right center-fonts">
             <i class="fa fa-money fa-5x"  aria-hidden="true"></i>
           </div>
-          <div class="col-md-4">
-            <h3 class="text-left">Ahorro económico</h3>
+          <div class="col-xs-12 col-sm-4 col-md-4">
+            <h3 class="text-left center-fonts">Ahorro económico</h3>
             
           </div>
-          <div class="col-md-2 text-right">
+          <div class="col-sm-2 col-md-2 text-right center-fonts">
             <i class="fa fa-user fa-5x"  aria-hidden="true"></i>
           </div>
-          <div class="col-md-4">
-            <h3 class="text-left">Acceso a clientes</h3>
+          <div class="col-sm-4 col-md-4">
+            <h3 class="text-left center-fonts">Acceso a clientes</h3>
             
           </div>
         </div> <br>
         <div class="row">
-          <div class="col-md-2 text-right">
+          <div class="col-sm-2 col-md-2 text-right center-fonts">
             <i class="fa fa-archive fa-5x"  aria-hidden="true"></i>
           </div>
-          <div class="col-md-4">
-            <h3 class="text-left">Acceso a la información</h3>
+          <div class="col-sm-4 col-md-4">
+            <h3 class="text-left center-fonts">Acceso a la información</h3>
             
           </div>
-          <div class="col-md-2 text-right">
+          <div class="col-sm-2 col-md-2 text-right center-fonts">
             <i class="fa fa-usd fa-5x"  aria-hidden="true"></i>
           </div>
-          <div class="col-md-4 text-center">
-            <h3 class="text-left">Reducción de costos</h3>
+          <div class="col-sm-4 col-md-4 text-center">
+            <h3 class="text-left center-fonts">Reducción de costos</h3>
             
           </div>
         </div> <br>
         <div class="row">
-          <div class="col-md-2 text-right">
+          <div class="col-sm-2 col-md-2 text-right center-fonts">
             <i class="fa fa-cogs fa-5x"  aria-hidden="true"></i>
           </div>
-          <div class="col-md-4">
-            <h3 class="text-left">Eficiencia administrativa</h3>
-            
+          <div class="col-sm-4 col-md-4">
+            <h3 class="text-left center-fonts">Eficiencia administrativa</h3>
           </div>
-          <div class="col-md-2 text-right">
+          <div class="col-sm-2 col-md-2 text-right center-fonts">
             <i class="fa fa-clock-o fa-5x"  aria-hidden="true"></i>
           </div>
-          <div class="col-md-4">
-            <h3 class="text-left">Optimización de tiempos</h3>
+          <div class="col-sm-4 col-md-4">
+            <h3 class="text-left center-fonts">Optimización de tiempos</h3>
             
           </div>
         </div> <br>
         <div class="row">
-          <div class="col-md-2 text-right">
+          <div class="col-sm-2 col-md-2 text-right center-fonts">
             <i class="fa fa-briefcase fa-5x"  aria-hidden="true"></i>
           </div>
-          <div class="col-md-4">
-            <h3 class="text-left">Transparencia corporativa</h3>
+          <div class="col-sm-4 col-md-4">
+            <h3 class="text-left center-fonts">Transparencia corporativa</h3>
             
           </div>
-          <div class="col-md-2 text-right">
+          <div class="col-sm-2 col-md-2 text-right center-fonts">
             <i class="fa fa-cubes fa-5x"  aria-hidden="true"></i>
           </div>
-          <div class="col-md-4">
-            <h3 class="text-left">Administración eficiente</h3>
+          <div class="col-sm-4 col-md-4">
+            <h3 class="text-left center-fonts">Administración eficiente</h3>
             
           </div>
         </div>
@@ -108,40 +111,40 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h2 class="text-center" style="color:#8DC04D; ">GRUPO COMERCIAL KOPITL</h2> <br><br>
+            <h2 class="text-center new-font-nos" style="color:#8DC04D; ">GRUPO COMERCIAL KOPITL</h2> <br><br>
             <!-- <p class="text-center">We are a group of skilled individuals.</p> -->
           </div>
         </div>
         <div class="row">
-          <div class="col-md-2 text-right">
+          <div class="col-sm-2 col-md-2 text-right fonts-centrado">
             <i class="fa fa-user fa-5x"  aria-hidden="true"></i>
           </div>
-          <div class="col-md-4">
-            <h3 class="text-left">Quienes somos</h3>
-            <p>En GRUPO COMERCIAL KOPITL ofrecemos soluciones integrales de acuerdo a sus necesidades, con servicios innovadores y con capacitaciones constantes al personal. En GRUPO COMERCIAL KOPITL siempre buscamos la mejor calidad, rentabilidad y confianza en nuestros servicios, para alcanzar siempre la satisfacción total de nuestro cliente.</p>
+          <div class="col-sm-4 col-md-4">
+            <h3 class="text-left sub-nos-center">Quienes somos</h3>
+            <p class="info-nos">En GRUPO COMERCIAL KOPITL ofrecemos soluciones integrales de acuerdo a sus necesidades, con servicios innovadores y con capacitaciones constantes al personal. En GRUPO COMERCIAL KOPITL siempre buscamos la mejor calidad, rentabilidad y confianza en nuestros servicios, para alcanzar siempre la satisfacción total de nuestro cliente.</p>
           </div>
-          <div class="col-md-2 text-right">
+          <div class="col-sm-2 col-md-2 text-right fonts-centrado">
             <i class="fa fa-users fa-5x"  aria-hidden="true"></i>
           </div>
-          <div class="col-md-4">
-            <h3 class="text-left">¿Qué tipo de profesionistas puedo buscar y contactar KOPITL?</h3>
-            <p>Actualmente, el alcance de KOPITL está enfocado en servicios de abogados, auditores, administradores, contadores públicos y otros jurídicos, tales como notarios públicos, corredores públicos, agentes aduanales, peritos, gestores, fiduciarias, jueces del registro civil y valuadores. Sin embargo, KOPITL se encuentra en constante crecimiento de los sectores y áreas de práctica para beneficio de nuestros clientes.</p>
+          <div class="col-sm-4 col-md-4">
+            <h3 class="text-left sub-nos-center">¿Qué tipo de profesionistas puedo buscar y contactar KOPITL?</h3>
+            <p class="info-nos">Actualmente, el alcance de KOPITL está enfocado en servicios de abogados, auditores, administradores, contadores públicos y otros jurídicos, tales como notarios públicos, corredores públicos, agentes aduanales, peritos, gestores, fiduciarias, jueces del registro civil y valuadores. Sin embargo, KOPITL se encuentra en constante crecimiento de los sectores y áreas de práctica para beneficio de nuestros clientes.</p>
           </div>
         </div> <br>
         <div class="row">
-          <div class="col-md-2 text-right">
+          <div class="col-sm-2 col-md-2 text-right fonts-centrado">
             <i class="fa fa-briefcase fa-5x"  aria-hidden="true"></i>
           </div>
-          <div class="col-md-4">
-            <h3 class="text-left">¿Cómo empiezo a trabajar con KOPITL?</h3>
-            <p>Muy sencillo!! Sólo debes dar click en contáctanos y empezarás con tu registro; únicamente tienes que llenar un formulario con información general para empezar a trabajar en conjunto con KOPITL.</p>
+          <div class="col-sm-4 col-md-4">
+            <h3 class="text-left sub-nos-center">¿Cómo empiezo a trabajar con KOPITL?</h3>
+            <p class="info-nos">Muy sencillo!! Sólo debes dar click en contáctanos y empezarás con tu registro; únicamente tienes que llenar un formulario con información general para empezar a trabajar en conjunto con KOPITL.</p>
           </div>
-          <div class="col-md-2 text-right">
+          <div class="col-sm-2 col-md-2 text-right fonts-centrado">
             <i class="fa fa-unlock-alt fa-5x"  aria-hidden="true"></i>
           </div>
-          <div class="col-md-4 text-center">
-            <h3 class="text-left">¿Mi información es confidencial?</h3>
-            <p>Absolutamente, toda la información proporcionada a KOPITL es confidencial y protegida bajo nuestro Aviso de Privacidad; eventualmente, únicamente se compartirá la información necesaria con el especialista elegido que desees contactar.</p>
+          <div class="col-sm-4 col-md-4 text-center">
+            <h3 class="text-left sub-nos-center">¿Mi información es confidencial?</h3>
+            <p class="info-nos">Absolutamente, toda la información proporcionada a KOPITL es confidencial y protegida bajo nuestro Aviso de Privacidad; eventualmente, únicamente se compartirá la información necesaria con el especialista elegido que desees contactar.</p>
           </div>
         </div> <br>
         

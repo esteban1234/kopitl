@@ -1,0 +1,535 @@
+@media screen and (max-width: 480px){
+	/*************DISEÑO INDEX*************/
+	
+	.logo{
+		float: none !important;
+		width: 60% !important;
+		margin: auto;
+	}
+
+
+	header nav {
+		margin-top: 10px;
+		float: none !important; 
+		display: none;
+	}
+
+	header nav .select{
+		display: block !important;
+		float: none !important;
+		padding: 10px !important;
+		text-align: center;
+	}
+
+	.menu-op{
+		padding: 5px 0px 15px 0px;
+		text-align: center;
+		color: #fff;
+		cursor: pointer;
+		display: block;
+	}
+
+	.cerrar{
+		display: none;
+	}
+
+	.banner{
+		height: 100%;
+	}
+
+	.uno{
+		width: 100%;
+		margin: 10px 0px;
+	}
+
+	.uno h3{
+		font-size: 16px;
+		font-weight: bold;
+	}
+
+	.cont-div{
+		border-bottom:.5px solid rgba(0,0,0,0.5);
+		margin-bottom: 20px;
+	}
+
+	.cont-div h3{
+		font-size: 16px;
+		font-weight: bolder;
+	}
+
+	.cont-div p{
+		text-align: justify;
+	}
+
+	.wrap-h2{
+		font-size: 20px;
+	}
+
+	.cont-op{
+		margin-bottom: 20px;
+	}
+
+	/*************END DISEÑO INDEX********/
+
+	/*************DISEÑO NOSOTROS*************/
+	.fondo{
+		padding: 40px 0px 0px 0px; 
+	}
+
+	.fondo h2{
+		font-size: 20px;
+	}
+
+	.new-font-nos{
+		font-size: 20px;
+		font-weight: bold;
+	}
+
+	.center-fonts{
+		text-align: center;
+	}
+
+	.texto{
+		font-size: 20px;
+	}
+
+	.banner3{
+		height: 100%;
+	}
+	
+	.fonts-centrado, .sub-nos-center{
+		text-align: center;
+	}
+
+
+	.info-nos{
+		text-align: justify;
+	}
+
+	/*************END DISEÑO NOSOTROS********/
+
+	/*************DISEÑO SERVICIOS*************/
+	.category_list{
+		display: none;
+	}
+
+	.products-list{
+		width: 100%;
+		float: none;
+		margin: auto;
+	}
+
+	.product-item{
+		width: 100% !important;
+	}
+
+	.product-item h1{
+		font-size: 22px;
+		font-weight: bold;
+	}
+
+	.ocultar-border{
+		display: none !important;
+	}
+
+	.ocultar{
+		display: none;
+	}
+	/*************END DISEÑO SERVICIOS********/
+
+	/*************DISEÑO CONTACTO*************/
+
+	.bor{
+		width: 90%;
+		margin: auto !important;
+		float: none;
+	}
+
+	.tit-form{
+		font-size: 22px;
+		font-weight: bold;
+	}
+	/*************END DISEÑO CONTACTO********/
+
+	/*************DISEÑO FOOTER*************/
+	footer{
+		
+		height: 100%; 
+	}
+
+	footer p{
+		/*border: 2px solid green;*/
+		width: 90%;
+		font-size: 16px;
+	}
+	/*************END DISEÑO FOOTER********/
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+		/*************DISEÑO INDEX*************/
+	
+	.logo{
+		float: none !important;
+		width: 40% !important;
+		margin: auto;
+	}
+
+
+	header nav {
+		margin-top: 10px;
+		float: none !important; 
+		display: none;
+	}
+
+	header nav .select{
+		display: block !important;
+		float: none !important;
+		padding: 10px !important;
+		text-align: center;
+	}
+
+	.menu-op{
+		padding: 5px 0px 15px 0px;
+		text-align: center;
+		color: #fff;
+		cursor: pointer;
+		display: block;
+	}
+
+	.cerrar{
+		display: none;
+	}
+
+	.banner{
+		height: 100%;
+	}
+
+	.uno{
+		width: 100%;
+		margin: 10px 0px;
+	}
+
+	.uno h3{
+		font-size: 16px;
+		font-weight: bold;
+	}
+
+	.cont-div{
+		border-bottom:.5px solid rgba(0,0,0,0.5);
+		margin-bottom: 20px;
+	}
+
+	.cont-div h3{
+		font-size: 16px;
+		font-weight: bolder;
+	}
+
+	.cont-div p{
+		text-align: justify;
+	}
+
+	.wrap-h2{
+		font-size: 20px;
+	}
+
+	.cont-op{
+		margin-bottom: 20px;
+	}
+
+	/*************END DISEÑO INDEX********/
+
+	/*************DISEÑO NOSOTROS*************/
+	.fondo{
+		padding: 40px 0px 0px 0px; 
+	}
+
+	.fondo h2{
+		font-size: 20px;
+	}
+
+	.new-font-nos{
+		font-size: 20px;
+		font-weight: bold;
+	}
+
+	.center-fonts{
+		text-align: center;
+	}
+
+	.texto{
+		font-size: 20px;
+	}
+
+	.banner3{
+		height: 100%;
+	}
+	
+	.fonts-centrado, .sub-nos-center{
+		text-align: center;
+	}
+
+
+	.info-nos{
+		text-align: justify;
+	}
+
+	/*************END DISEÑO NOSOTROS********/
+
+	/*************DISEÑO SERVICIOS*************/
+	.category_list{
+		display: none;
+	}
+
+	.products-list{
+		width: 100%;
+		float: none;
+		margin: auto;
+	}
+
+	.product-item{
+		width: 100% !important;
+	}
+
+	.product-item h1{
+		font-size: 22px;
+		font-weight: bold;
+	}
+
+	.ocultar-border{
+		display: none !important;
+	}
+
+	.ocultar{
+		display: none;
+	}
+	/*************END DISEÑO SERVICIOS********/
+
+	/*************DISEÑO CONTACTO*************/
+
+	.bor{
+		width: 90%;
+		margin: auto !important;
+		float: none;
+	}
+
+	.tit-form{
+		font-size: 22px;
+		font-weight: bold;
+	}
+	/*************END DISEÑO CONTACTO********/
+
+	/*************DISEÑO FOOTER*************/
+	footer{
+		
+		height: 100%; 
+	}
+
+	footer p{
+		/*border: 2px solid green;*/
+		width: 90%;
+		font-size: 16px;
+	}
+	/*************END DISEÑO FOOTER********/
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+		/*************DISEÑO INDEX*************/
+	
+	.logo{
+		float: none !important;
+		width: 30% !important;
+		margin: auto;
+	}
+
+
+	header nav {
+		margin-top: 10px;
+		float: none !important; 
+		display: none;
+	}
+
+	header nav .select{
+		display: block !important;
+		float: none !important;
+		padding: 10px !important;
+		text-align: center;
+	}
+
+	.menu-op{
+		padding: 5px 0px 15px 0px;
+		text-align: center;
+		color: #fff;
+		cursor: pointer;
+		display: block;
+	}
+
+	.cerrar{
+		display: none;
+	}
+
+	.banner{
+		height: 100%;
+	}
+
+	.uno{
+		width: 30%;
+		/*margin: 10px 0px;*/
+	}
+
+	.uno h3{
+		font-size: 16px;
+		font-weight: bold;
+	}
+
+	.cont-div{
+		border-bottom:.5px solid rgba(0,0,0,0.5);
+		margin-bottom: 20px;
+	}
+
+	.cont-div h3{
+		font-size: 16px;
+		font-weight: bolder;
+	}
+
+	.cont-div p{
+		text-align: justify;
+	}
+
+	.wrap-h2{
+		font-size: 20px;
+	}
+
+	.cont-op{
+		margin-bottom: 20px;
+	}
+
+	/*************END DISEÑO INDEX********/
+
+	/*************DISEÑO NOSOTROS*************/
+	.fondo{
+		padding: 40px 0px 0px 0px; 
+	}
+
+	.fondo h2{
+		font-size: 20px;
+	}
+
+	.new-font-nos{
+		font-size: 20px;
+		font-weight: bold;
+	}
+
+	.center-fonts{
+		text-align: center;
+	}
+
+	.texto{
+		font-size: 20px;
+	}
+
+	.banner3{
+		height: 100%;
+	}
+	
+	.fonts-centrado, .sub-nos-center{
+		text-align: center;
+	}
+
+
+	.info-nos{
+		text-align: justify;
+	}
+
+	/*************END DISEÑO NOSOTROS********/
+
+	/*************DISEÑO SERVICIOS*************/
+	.category_list{
+		display: none;
+	}
+
+	.products-list{
+		width: 100%;
+		float: none;
+		margin: auto;
+	}
+
+	.product-item{
+		width: 100% !important;
+	}
+
+	.product-item h1{
+		font-size: 22px;
+		font-weight: bold;
+	}
+
+	.ocultar-border{
+		display: none !important;
+	}
+
+	.ocultar{
+		display: none;
+	}
+
+	.contenido{
+		width: 95%;
+	}
+
+	.container{
+		width: 100%;
+	}
+	/*************END DISEÑO SERVICIOS********/
+
+	/*************DISEÑO CONTACTO*************/
+
+	.bor{
+		width: 90%;
+		margin: auto !important;
+		float: none;
+	}
+
+	.tit-form{
+		font-size: 22px;
+		font-weight: bold;
+	}
+	/*************END DISEÑO CONTACTO********/
+
+	/*************DISEÑO FOOTER*************/
+	footer{
+		
+		height: 100%; 
+	}
+
+	footer p{
+		/*border: 2px solid green;*/
+		width: 90%;
+		font-size: 16px;
+	}
+	/*************END DISEÑO FOOTER********/
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {
+
+	header{
+		padding: 0px !important;
+	}
+
+
+	.logo{
+		width: 20% !important;
+		/*margin-top: 50px;*/
+	}
+
+	header nav{
+		margin: 0px !important;
+	}
+
+	.ocultar{
+		display: none;
+	}
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }

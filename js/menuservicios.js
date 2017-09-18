@@ -1,11 +1,5 @@
 $(document).ready(function(){
-	// event.preventDefault();
-
-	// $("a").click(function(event){
- //        event.preventDefault();
- //    });
-
-
+	if($(window).width() >= 800){
 	$('.category_list .category_item[category="contables"]').addClass('ct_item-active');
 	$('.product-item').hide();
 	$('.product-item[category=contables]').show();
@@ -41,5 +35,5 @@ $(document).ready(function(){
 	});
 
 	//alert('hola')
-
+}
 });

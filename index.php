@@ -13,6 +13,10 @@
       <a class="select" href="vistas/servicios.php">SERVICIOS</a>
       <a class="select" href="vistas/contacto.php">CONTACTO</a>
     </nav>
+    <div class="menu-op">
+      <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+      <i class="fa fa-times fa-2x cerrar" aria-hidden="true"></i>
+    </div>
   </div>
 </header>
 <div class="banner">
@@ -53,17 +57,16 @@
 <div class="section">
       <div class="container">
         <div class="row">
-          <div class="col-md-4">
-            
+          <div class="col-xs-12 col-sm-4 col-md-4 cont-div">
             <h3 class="text-center" style="color: #8DC04D;">¿EN QUÉ CASOS ME PUEDE AYUDAR KOPITL?</h3>
             <p>Tenemos la solución a cualquier situación o conflicto contable, administrativo, fiscal, legal, te apoyamos en todos los casos.</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-xs-12 col-sm-4 col-md-4 cont-div">
             
             <h3 class="text-center" style="color: #8DC04D;">¿CÓMO ENCUENTRO ASESORÍA?</h3>
             <p>En KOPITL es súper sencillo encontrar un despacho de contadores, auditores o un contador fiscal que se ajuste a tus necesidades.</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-xs-12 col-sm-4 col-md-4 cont-div">
             
             <h3 class="text-center" style="color: #8DC04D;">¿DÓNDE PUEDO SOLICITAR CONSULTORÍA?</h3>
             <p>Tenemos contadores públicos y auditores en toda la república mexicana dispuestos a brindarte servicios contables y fiscales. 
@@ -77,11 +80,11 @@
 </section>
 
 <div class="contenido2">
-      <div class=" wrapper">
-      <h2 class="text-center" style="color:#8DC04D; ">¿CÓMO FUNCIONAN LOS SERVICIOS DE KOPITL?</h2> <br><br>
+      <div class="wrapper">
+      <h2 class="text-center wrap-h2" style="color:#8DC04D; ">¿CÓMO FUNCIONAN LOS SERVICIOS DE KOPITL?</h2> <br><br>
         <div class="container">
           <div class="row">
-            <div class="col-md-3">
+            <div class="col-xs-12 col-md-3 cont-div cont-op">
               <div class="icono2">
                 <i class="fa fa-envelope-o fa-5x" aria-hidden="true"></i>
               </div>
@@ -89,7 +92,7 @@
               <h4 class="text-center" style="color:#8DC04D; ">ENVÍA O RECIBE SOLICITUDES</h4>
               <p class="text-center">Puedes enviar solicitudes de servicio conforme a las necesidades específicas de tu negocio o de tus asuntos personales, las cuales serán recibidas por especialistas en el servicio que requieres contratar.</p>
             </div>
-            <div class="col-md-3">
+            <div class="col-xs-12 col-md-3 cont-div cont-op">
               <div class="icono2">
                 <i class="fa fa-check-square-o fa-5x" aria-hidden="true"></i>
               </div>
@@ -97,7 +100,7 @@
               <h4 class="text-center" style="color:#8DC04D; ">COTIZA Y REVISA</h4>
               <p class="text-center">Diversos especialistas te enviaran sus propuestas de servicios para tu revisión. Obtendrás información que te permitirá comparar presupuestos, tiempos de respuesta, ubicación, perfil y experiencia de los especialistas.</p>
             </div>
-            <div class="col-md-3">
+            <div class="col-xs-12 col-md-3 cont-div cont-op">
               <div class="icono2">
                 <i class="fa fa-comments-o fa-5x" aria-hidden="true"></i>
               </div>
@@ -105,7 +108,7 @@
               <h4 class="text-center" style="color:#8DC04D; ">CONTACTA</h4>
               <p class="text-center">Conoce personalmente al especialista que más se adecue a tus necesidades y contrátalo.</p>
             </div>
-            <div class="col-md-3">
+            <div class="col-xs-12 col-md-3 cont-div cont-op">
               <div class="icono2">
                 <i class="fa fa-users fa-5x" aria-hidden="true"></i>
               </div>

@@ -13,6 +13,10 @@
       <a class="select" href="servicios.php">SERVICIOS</a>
       <a class="select selector" href="contacto.php">CONTACTO</a>
     </nav>
+    <div class="menu-op">
+      <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+      <i class="fa fa-times fa-2x cerrar" aria-hidden="true"></i>
+    </div>
   </div>
 </header>
 <div class="banner4">
@@ -29,30 +33,32 @@
 <section id="contact" class="content-section text-center">
         <div class="contact-section">
             <div class="container">
-              <h2>Formulario de contacto</h2> <br><br>
+              <h2 class="tit-form">Formulario de contacto</h2> <br><br>
               
               <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                  <form class="form-horizontal">
+                <div class="col-xs-12 col-md-8 col-md-offset-2 bor">
+                  <form class="form-horizontal" onSubmit="return false">
                     <div class="form-group">
                       <label for="exampleInputName2">Nombre completo</label>
-                      <input type="text" class="form-control" id="exampleInputName2" placeholder="Escribe tu nombre completo">
+                      <input type="text" class="form-control" id="txtNOMBRE" placeholder="Escribe tu nombre completo">
                     </div>
                     <div class="form-group">
                       <label for="exampleInputEmail2">Correo</label>
-                      <input type="email" class="form-control" id="exampleInputEmail2" placeholder="Escribe tu correo elctrónico">
+                      <input type="email" class="form-control" id="txtCORREO" placeholder="Escribe tu correo elctrónico">
                     </div>
 
                     <div class="form-group">
                       <label for="exampleInputEmail2">Teléfono</label>
-                      <input type="text" class="form-control" id="exampleInputEmail2" placeholder="Escribe tu número teléfonico">
+                      <input type="text" class="form-control" id="txtTELEFONO" placeholder="Escribe tu número teléfonico">
                     </div>
 
                     <div class="form-group ">
                       <label for="exampleInputText">Comentario</label>
-                     <textarea  class="form-control" placeholder="Escribe tu comentario"></textarea> 
+                     <textarea  id="txtCOMENTARIO" class="form-control" placeholder="Escribe tu comentario"></textarea> 
                     </div>
-                    <button type="submit" class="btn btn-warning btn-outline btn-lg">Enviar Mensaje</button>
+
+                     <div id="_AJAX_PRE_"></div>
+                    <button type="submit" class="btn btn-warning btn-outline btn-lg" onclick="sendCORREO()">Enviar Mensaje</button>
                   </form>
 
                   <hr>

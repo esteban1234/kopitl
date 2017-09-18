@@ -13,6 +13,10 @@
       <a class="select selector" href="servicios.php">SERVICIOS</a>
       <a class="select" href="contacto.php">CONTACTO</a>
     </nav>
+    <div class="menu-op">
+      <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+      <i class="fa fa-times fa-2x cerrar" aria-hidden="true"></i>
+    </div>
   </div>
 </header>
 <div class="banner3">
@@ -23,7 +27,7 @@
 </div>
 
 <div class="section contenido wrapper">
-    <h1>Servicios</h1>
+    <h1 class="ocultar-border">Servicios</h1>
     <div class="store-wrapper">
       <div class="category_list">
         <!-- <a href="#" class="category_item" category="all">TODOS</a> -->
@@ -85,7 +89,7 @@
         
         
       </section>
-      <div style="text-align: center; margin-top: 5%; margin-bottom: 5%;">
+      <div class="ocultar" style="text-align: center; margin-top: 5%; margin-bottom: 5%;">
       <a class="btn btn-warning btn-outline btn-lg" href="contacto.php">CONTACTANOS</a>
     </div>
     </div>

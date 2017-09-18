@@ -56,7 +56,7 @@ function sendCORREO(){
 
 	setTimeout(function() {
         $('#_AJAX_PRE_').empty(800);
-    },3000);
+    },5000);
 }
 
 
